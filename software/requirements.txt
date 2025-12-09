@@ -1,0 +1,7 @@
+dronekit
+pymavlink
+opencv-python
+numpy
+requests
+flask
+dronekit-sitl
