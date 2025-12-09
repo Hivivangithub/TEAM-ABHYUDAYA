@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+.python-version
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints
+
+# Arduino / PlatformIO
+*.hex
+*.elf
+*.bin
+.pio/
+
+# Raspberry Pi / images
+*.img
+*.iso
+
+# Secrets / env
+.env
+secrets.json
+credentials.json
+private_key.pem
